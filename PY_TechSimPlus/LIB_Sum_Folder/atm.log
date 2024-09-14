@@ -1,0 +1,22 @@
+2024-07-07 17:39:35,042 - ERROR - error:your Card not Accept 
+2024-07-07 17:40:12,821 - INFO - Your Card Accept 
+2024-07-07 17:40:20,532 - INFO - Your Pin Accept 
+2024-07-07 17:40:25,765 - ERROR - error:'>' not supported between instances of 'str' and 'int' 
+2024-07-07 17:42:55,903 - INFO - Your card was accepted.
+2024-07-07 17:42:59,021 - INFO - Correct pin entered.
+2024-07-07 17:43:03,240 - INFO - Amount accepted.
+2024-07-07 17:43:03,240 - INFO - 4000 rupees debited.
+2024-07-10 18:55:43,104 - INFO - Your card was accepted.
+2024-07-10 18:55:48,458 - ERROR - Error: Incorrect pin entered.
+2024-07-10 18:56:07,627 - INFO - Your card was accepted.
+2024-07-10 18:56:11,225 - INFO - Correct pin entered.
+2024-07-10 18:56:15,987 - INFO - Amount accepted.
+2024-07-10 18:56:15,988 - INFO - 2000 rupees debited.
+2024-07-20 15:24:18,532 - INFO - Your card was accepted.
+2024-07-20 15:24:22,316 - INFO - Correct pin entered.
+2024-07-20 15:24:27,236 - INFO - Amount accepted.
+2024-07-20 15:24:27,236 - INFO - 1000 rupees debited.
+2024-08-17 20:41:00,710 - INFO - Your card was accepted.
+2024-08-17 20:41:12,180 - INFO - Correct pin entered.
+2024-08-17 20:41:24,440 - INFO - Amount accepted.
+2024-08-17 20:41:24,440 - INFO - 8999 rupees debited.
